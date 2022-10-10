@@ -1,4 +1,4 @@
-Atma Jaya
+eAtma Jaya
 
 Jakarta
 
@@ -9,3 +9,5 @@ Jogja
 Bandung
 
 Ubud
+
+Denpasar
